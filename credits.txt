@@ -9,7 +9,6 @@
   |___/
 
 VERSION 0.3
-THIS IS TEST OF LOADER [ DLL ITSELF IS FROM SILENTMAFIA ]
 
 welcome to : ghostMenu
 credits : tymosh.ovh/gh
