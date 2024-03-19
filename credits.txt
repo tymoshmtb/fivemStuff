@@ -8,6 +8,9 @@
    __/ |                                                                 
   |___/
 
-welcome to ghostMenu
-credits -> tymko83 x queecy
-official contact -> tymosh.ovh/dc
+VERSION 0.3
+THIS IS TEST OF LOADER [ DLL ITSELF IS FROM SILENTMAFIA ]
+
+welcome to : ghostMenu
+credits : tymosh.ovh/gh
+official contact : tymosh.ovh/dc
