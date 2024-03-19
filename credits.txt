@@ -17,4 +17,4 @@ official contact : tymosh.ovh/dc
 credits
 main creator : gh/tymoshmtb
 cheat : gh/Queecy
-aes tool : gh/anchal27sri
+aes tool inspiration : gh/anchal27sri
