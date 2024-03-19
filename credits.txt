@@ -8,8 +8,13 @@
    __/ |                                                                 
   |___/
 
-VERSION 0.3
+VERSION 0.4
 
 welcome to : ghostMenu
 credits : tymosh.ovh/gh
 official contact : tymosh.ovh/dc
+
+credits
+main creator : gh/tymoshmtb
+cheat : gh/Queecy
+aes tool : gh/anchal27sri
